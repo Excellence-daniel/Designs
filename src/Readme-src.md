@@ -19,4 +19,4 @@ To run these files:
 2. Install NPM and Node.js
 
 3. Open CMD and navigate into the downloaded file and type in 
-		npm  start
+		'npm  start'
