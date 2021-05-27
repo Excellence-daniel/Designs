@@ -7,7 +7,7 @@ export const AppRoutes = () => {
   return (
     <Router>
       <Route path="/biometrics" component={TryOuts} />
-      <Route path="/pricing" component={Pricing} />
+      <Route path="/" component={Pricing} />
     </Router>
   )
 }
