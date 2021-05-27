@@ -7,6 +7,9 @@
   // background-color: #8bc6ec;
   background-image: linear-gradient(89deg, #8bc6ec54 0%, #bb73f26e 100%);
   height: 100vh;
+  @media screen and (max-width: 600px) {
+    height: 100%;
+  }
   .logo-print {
     padding: 15px;
     color: white;
