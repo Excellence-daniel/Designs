@@ -1,18 +1,18 @@
 import React from 'react'
 //import Background from '../images/Remit-body.PNG'
-const BG = '../images/Remita-body.PNG'
-const child = {
-  name: 'Joel Pakistan',
-  sex: 'Male',
-  age: 12,
-}
+// const BG = '../images/Remita-body.PNG'
+// const child = {
+//   name: 'Joel Pakistan',
+//   sex: 'Male',
+//   age: 12,
+// }
 //let imgUrl = 'pink url("https://media.giphy.com/media/oyr89uTOBNVbG/giphy.gif") fixed';
 //const Background = '../images/Remit-body.PNG';
 // const background = 'pink url("https://media.giphy.com/media/oyr89uTOBNVbG/giphy.gif") fixed';
 
-const logoStyle = {
-  width: '23%',
-}
+// const logoStyle = {
+//   width: '23%',
+// }
 const Container = {
   width: '100%',
 }
@@ -66,7 +66,7 @@ export class TryOuts extends React.Component {
           <div style={colmd4}>
             <div style={{ marginTop: '40px' }}>
               <center>
-                <img src="images/Login-logo.PNG" style={logoStyle}></img>
+                {/* <img src="images/Login-logo.PNG" style={logoStyle}></img> */}
                 <h2> SIGN IN </h2>
                 <h4 style={h4Style}>
                   {' '}
