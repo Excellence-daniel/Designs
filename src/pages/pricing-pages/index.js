@@ -38,8 +38,8 @@ export const Pricing = () => {
                 <i class="bi bi-dice-1"></i>
               </p>
               <p>
-                <h3>Tod Pack</h3>
-                <h5>1 Month / 3000 Euros</h5>
+                <h3>Tod Plan</h3>
+                <h5>1 Month / 3k Euros</h5>
               </p>
             </div>
             <div className="body">
@@ -73,7 +73,7 @@ export const Pricing = () => {
               </p>
               <p>
                 <h3>Teen Plan</h3>
-                <h5>1 Month / 6500 Euros</h5>
+                <h5>1 Month / 6.5k Euros</h5>
               </p>
             </div>
             <div className="body">
@@ -106,8 +106,8 @@ export const Pricing = () => {
                 <i class="bi bi-dice-3"></i>
               </p>
               <p>
-                <h3>Adult Pack</h3>
-                <h5>1 Month / 3000 Euros</h5>
+                <h3>Adult Plan</h3>
+                <h5>1 Month / 10k Euros</h5>
               </p>
             </div>
             <div className="body">
