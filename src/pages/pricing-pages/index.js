@@ -135,6 +135,10 @@ export const Pricing = () => {
             </div>
           </div>
         </div>
+
+        <div className="row counter">
+          <p>Page One</p>
+        </div>
       </div>
     </div>
   )
